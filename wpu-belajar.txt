@@ -1,1 +1,3 @@
 jawir belajar pelan pelan git dan github
+jawir mengubah file
+melancarkan bahasa cli git
